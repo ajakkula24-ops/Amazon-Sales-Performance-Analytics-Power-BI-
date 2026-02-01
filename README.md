@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Amazon Sales Performance Analytics (Power BI)
 # 📊 Amazon Sales Analysis Dashboard (Power BI)
 
 This project is a **Power BI sales analytics dashboard** built to analyze Amazon product sales, trends, and customer engagement using real-world business intelligence techniques.
