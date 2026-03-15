@@ -55,7 +55,8 @@ To provide clear insights into:
 
 ## 📁 Project Files
 - `AMAZON REAL PROJECT.pbix` – Power BI dashboard  
-- `Amazon_Combined_Data.xlsx` – Source data  
+- `Amazon_Combined_Data.xlsx` – Source data
+- Amazon Sales Dashboard.png 
 
 ---
 
